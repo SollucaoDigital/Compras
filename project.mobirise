@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "OfertAS E dESCONTOD dO SOLUÇÃO dIGITAL",
-    "currentPage": "index.html",
+    "currentPage": "httpssollucaodigital.github.ioNegocioPacotes.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,13 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Anton', sans-serif",
+        "name": "Anton",
+        "url": "https://fonts.googleapis.com/css?family=Anton:400"
+      }
+    ],
     "uniqCompNum": 14,
     "versionPublish": "4.9.7",
     "siteUrl": "",
@@ -44,17 +50,17 @@
     "robotsSwitcher": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "Nossa empresa tem se dedicado constantemente em fazer produtos ou serviços de pessoas normais crescerem de for escalavél. Se você não colocou o seu negócio a mostra das pessoas, como você venderá para elas?\r\nÉ penssando nisso que criamos esse plano para que seu negócio cresça, sendo sua cara, mas o gosto do seu cliente. ",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "sitemapSwitcher": "on"
   },
   "pages": {
-    "index.html": {
+    "httpssollucaodigital.github.ioNegocioPacotes.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Impulsionamento",
+        "meta_descr": "Alavanque seu negócio de maneira inteligente. Nós nos comprometemos em fazer sua empresa crescer de maneira seria e saudável. \nPlanos ideias que cabem no seu orçamento com muita facilidade. Mas Corra pois é por tempo limitado.\nLogo após a oferta irá subir em seu valores consideravelmente.\n\nCaso você queira investir um valor menor. Entre em Contato, e nossa equipe vai te auxiliar ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
