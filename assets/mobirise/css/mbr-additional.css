@@ -2076,6 +2076,29 @@ body {
 .cid-rrGUgWQX7p .plan-title {
   color: #ffa012;
 }
+.cid-rrHOwdCaKQ {
+  background: #ffffff;
+}
+.cid-rrHOwdCaKQ .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rrHOwdCaKQ .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rrHOwdCaKQ figcaption {
+  position: relative;
+}
+.cid-rrHOwdCaKQ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rrHOwdCaKQ .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rrGUoRmdye {
   padding-top: 45px;
   padding-bottom: 60px;
